@@ -2,13 +2,14 @@ The repository saves two sample videos and vehicle trajectories for the paper â€
 
 Xinqiang Chen, Zhibin Li, Lei Qi and Yongsheng Yang, A Novel Framework for Automatic Vehicle Trajectory Extraction and Denoising from Aerial Videos, submitted to Transportation Research Part C: Emerging Technologies. 
 
-The video #1 was described in detail in the paper.
+The details about video #1 was described in the paper.
 
 The video #2 was shot within 5minutes 30seconds,and the traffic state in the video evolves from free-flow to congested status, which can provide us unique high-fidelity trajectories, and help us deeply explore traffic state evolution mechanism, driver behavior prediction and analysis, traffic accident formation and prevention etc. If you want the trajectory data as an early bird, please send a request email to: chenxinqiang@stu.shmtu.edu.cn.
 
 Explanations for files listed in each repository are as follows:
 
-trajectory_dataset_1 contains videos for #1 and the corresponding trajectory data description, and  trajectory_dataset_2 contains videos for #2 and the corresponding trajectory data
+trajectory_dataset_1 contains videos for #1 and the corresponding trajectory data description, and  trajectory_dataset_2 contains videos for #2 and the corresponding trajectory data. 
+For each trajectory file (e.g. vehicle_1_trajectory_frenet.txt), Please open it with matlab, and then you can find the file incldues 5 columns. The 3rd column is the trajectory for the vehicle and the 5th column is time.  
 
 The lane label in video.png file demonstrates vehicle lane number. 
 
