@@ -1,4 +1,4 @@
-The repository saves a sample video and vehicle trajectories of the paper ¡°A Novel Framework for Automatic Vehicle Trajectory Extraction and Denoising from Aerial Videos¡±, which was submitted to Transportation Research Part C: Emerging Technologies (trajectory special issue). If you think the video and data are useful for your work, please cite our paper as follows: 
+The repository saves a sample video and vehicle trajectories of the paper A Novel Framework for Automatic Vehicle Trajectory Extraction and Denoising from Aerial Videos, which was submitted to Transportation Research Part C: Emerging Technologies (trajectory special issue). If you think the video and data are useful for your work, please cite our paper as follows: 
 
 Xinqiang Chen, Zhibin Li, Lei Qi and Yongsheng Yang, A Novel Framework for Automatic Vehicle Trajectory Extraction and Denoising from Aerial Videos, submitted to Transportation Research Part C: Emerging Technologies. 
 
